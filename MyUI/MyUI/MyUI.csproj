@@ -8,4 +8,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="MyLiberary">
+      <HintPath>..\..\MyLiberary\MyLiberary\bin\Debug\net6.0-windows\MyLiberary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

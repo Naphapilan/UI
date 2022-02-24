@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TR\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TR\\Documents\\GitHub\\MyUI\\MyUI\\MyUI\\MyUI.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\MyUI\\MyUI\\MyUI.csproj",
       "projectName": "MyUI",
-      "projectPath": "C:\\Users\\TR\\Documents\\GitHub\\MyUI\\MyUI\\MyUI\\MyUI.csproj",
-      "packagesPath": "C:\\Users\\TR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TR\\Documents\\GitHub\\MyUI\\MyUI\\MyUI\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\MyUI\\MyUI\\MyUI.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\MyUI\\MyUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
